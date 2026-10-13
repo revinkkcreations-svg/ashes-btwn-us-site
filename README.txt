@@ -1,13 +1,17 @@
-ASHES BTWN US WEBSITE STARTER
+ASHES BTWN US WEBSITE CUSTOMIZATION UPDATE
 
-Files:
-- index.html: the single-page website.
-- night-terrors-demo.png: the exact demo cover image supplied by the band.
+This package is prepared for your existing GitHub Pages repository.
 
-To publish updates, upload BOTH index.html and night-terrors-demo.png to the root of the existing GitHub repository and commit the changes. Keep both files together at the repository root.
+Upload the updated index.html plus all PNG/JPG artwork files from this folder to the ROOT of the repository:
+- index.html
+- ashes-btwn-us-banner.png
+- logo-circular.png
+- logo-glitch.png
+- night-terrors-promo.png
+- ashes-wordmark-purple-red.jpg
+- band-silhouettes.jpg
+- night-terrors-demo.png (if included)
 
-GitHub Pages settings should be: Deploy from a branch, branch main, folder /(root).
+Do not upload only the ZIP. Extract it first, then upload the individual files together and commit the changes.
 
-Free hosting; custom domain optional and costs extra.
-
-The mailing-list form is a placeholder and does not collect or send email addresses yet. Replace generic social links with official band profiles and add real video/merch links when ready.
+The update uses the panoramic banner, purple/green/red brand palette, compact circular logo in the navigation, the supplied Night Terrors demo cover, promo artwork, and band silhouette image. GitHub Pages will rebuild automatically after commit.
